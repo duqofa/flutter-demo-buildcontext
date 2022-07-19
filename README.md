@@ -15,4 +15,4 @@
 - Context can belong to only one widget.
 - If a widget has child widgets, then the context of the parent widget becomes the parent context for the contexts of direct child elements.
 - A widget is visible only in its own context or in the context of its parent context.
-=> Thus, it becomes clear that knowing the children’s context, you can easily find the parent widget. Conversely, using the parent context you can find the child widget.
+- => Thus, it becomes clear that knowing the children’s context, you can easily find the parent widget. Conversely, using the parent context you can find the child widget.
